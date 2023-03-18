@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "name": "Black Forest Cake",
+        "image": "https://livforcake.com/wp-content/uploads/2017/07/black-forest-cake-thumb.jpg", 
+        "ingredients":"Chocolate, all purpose flour, cherries, eggs, butter, cream",
+        "price": 35,
+        "size": "6 piece cake"
+    },
+    {
+        "id":2,
+        "name": "Nutella Cake",
+        "image": "https://cdn.bleems.com/flowers/710051021131947516691_item.jpg", 
+        "ingredients": "nutella, all purpose flour, eggs, butter, cream",
+        "price": 25,
+        "size": "8 piece cake"
+   },
+   {
+       "id":3,
+       "name": "Pine-Apple Pastry",
+       "image": "https://cdn.shopify.com/s/files/1/0279/6329/3831/products/TROPICAL_PINEAPPLE_1024x1024.jpg?v=1645628131", 
+       "ingredients": "pineapple, all purpose flour, eggs, butter, cream",
+       "price": 30,
+       "size": "8 piece cake"
+   },
+   {
+        "id":4,
+        "name": "Butter Scotch Cake",
+        "image": "https://mlmxzyi1eli4.i.optimole.com/9ZuqvVQ-PtTCnR4U/w:1024/h:1024/q:85/https://yhoja.com/wp-content/uploads/2021/06/FShreemithai15-01-2021-374lowrescopy_2400x.jpg", 
+        "ingredients": "caramel, all purpose flour, eggs, butter, cream",
+        "price": 35,
+        "size": "6 piece cake"
+   },
+    {
+        "id":5,
+        "name": "blueberry vanilla cake",
+        "image": "https://aida.at/wp-content/uploads/2018/09/Aida_03-21_15.jpg", 
+        "ingredients": "blueberries, all purpose flour, eggs, butter, cream",
+        "price": 30,
+        "size": "8 piece cake"
+    },
+    {
+        "id":6,
+        "name": "white forest cake",
+        "image": "https://cdn.shopify.com/s/files/1/1060/3816/products/premium-white-forest-cake_199e7647-5385-4cdb-b79a-3aca23a1140b.jpg?v=1594973964", 
+        "ingredients": "white chocolate, all purpose flour, eggs, butter, cream",
+        "price": 30,
+        "size": "8 piece cake"
+    },
+    {
+        "id":7,
+        "name": "tiramisu cake",
+        "image": "https://treatbuyer.com/wp-content/uploads/2021/12/best-bakeries-deliver-tiramisu-cakes-nationwide-williams-sonoma-tiramisu2-1024x1024.jpg.webp", 
+        "ingredients": "coffee, all purpose flour, eggs, butter, cream",
+        "price": 40,
+        "size": "6 piece cake"
+    },
+    {
+        "id":8,
+        "name": "Chocolate Truffle cake",
+        "image": "https://cdn.shopify.com/s/files/1/0034/8343/5072/products/Web_ChocolateTruffle_1024x1024.jpg?v=1672472198", 
+        "ingredients": "chocolate, cacao, all purpose flour, eggs, butter, cream",
+        "price": 30,
+        "size": "6 piece cake"
+    }
+]
